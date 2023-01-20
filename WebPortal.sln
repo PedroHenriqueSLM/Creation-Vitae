@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPortal", "WebPortal\WebPortal.csproj", "{E1CF93E1-0E68-4002-A56B-F6ED5B257E04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebPortal", "WebPortal\WebPortal.csproj", "{E1CF93E1-0E68-4002-A56B-F6ED5B257E04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

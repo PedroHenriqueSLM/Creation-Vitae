@@ -47,11 +47,3 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/Pedro Henrique/Desktop/Projects/WebPortal/WebPortal/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-iujvud7zat
-
-[C:/Users/Pedro Henrique/Desktop/Projects/WebPortal/WebPortal/Views/Shared/_Layout_CadastroUsuario.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfQ2FkYXN0cm9Vc3VhcmlvLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = b-qxse5jynuq
-
-[C:/Users/Pedro Henrique/Desktop/Projects/WebPortal/WebPortal/Views/Shared/_Layout_RecuperacaoSenha.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfUmVjdXBlcmFjYW9TZW5oYS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = b-msvedie56q
