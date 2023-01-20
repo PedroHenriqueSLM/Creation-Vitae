@@ -7,7 +7,7 @@ namespace WebPortal.Controllers
 {
     public class CadastroUsuarioController : Controller
     {
-        public IActionResult Inclusao()
+        public IActionResult Cadastro()
         {
             return View();
         }
